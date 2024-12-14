@@ -1,0 +1,31 @@
+#
+#	Minecraft Server Ignore File
+#
+
+# Folders
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+versions/
+libraries/
+crash-reports/
+plugins/spark/
+
+# Files
+.DS_Store
+banned-ips.json
+banned-players.json
+commands.yml
+permissions.yml
+help.yml
+server.properties
+usercache.json
+version_history.json
+config/paper-global.yml
+whitelist.json
+wepif.yml
+plugins/bStats/config.yml
+plugins/Skript/backups/
+plugins/FastAsyncWorldEdit/history/
